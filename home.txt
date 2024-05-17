@@ -1,1 +1,2 @@
 Essa é uma linha de teste
+Essa é uma segunda linha de teste
